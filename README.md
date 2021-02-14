@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+### 🌱 I’m currently learning Computer Science in Tel-Aviv University
+### 😄 Pronouns: He, His, Him, Himself
+### ⚡ Fun fact: An Apple fan and loves Juggling
+
 <!--
 **mattantoledo/mattantoledo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
