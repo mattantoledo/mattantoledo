@@ -1,6 +1,6 @@
 ### Hello 👋
 
-My name is Mattan Toledo and I'm a Computer Science student at Tel-Aviv University. <br> I am highly motivated to learn new skills. <br>
+My name is Mattan Toledo and I'm a Computer Science graduate at Tel-Aviv University. <br> I am highly motivated to learn new skills. <br>
 I love sports, nature and juggling. <br>
 You can find me on [![Facebook][1.2]][1], or on [![LinkedIn][2.2]][2].
 
